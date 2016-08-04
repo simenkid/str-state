@@ -1,2 +1,2 @@
-# str-state
+# tri-state
 A status manager
